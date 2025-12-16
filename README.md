@@ -39,7 +39,7 @@ Repository: https://github.com/25-THEBEaST-25/cyber-daily
 
 ## 📫 Contact
 - GitHub: https://github.com/25-THEBEaST-25
-- LinkedIn: *(to be added)*
+- LinkedIn: www.linkedin.com/in/aryan-w
 
 ---
 
