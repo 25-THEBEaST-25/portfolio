@@ -37,10 +37,22 @@ Repository: https://github.com/25-THEBEaST-25/cyber-daily
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/25-THEBEaST-25
-- LinkedIn: www.linkedin.com/in/aryan-w
+---
+
+## 🛡️ Security Philosophy
+- Treat authentication and session handling as the highest-risk surface in any backend.
+- Hash and salt credentials — never store or log passwords in plaintext.
+- Apply rate limiting and account lockout to every login surface.
+- Validate and sanitise all input at system boundaries; never trust client-supplied data.
+- Log security-relevant events (failed logins, lockouts, privilege changes) with enough context to reconstruct incidents, but never log sensitive data like passwords or tokens.
+- Write tests that simulate attacker behaviour, not just happy-path behaviour.
 
 ---
 
-*“Consistency builds competence.”*
+## 📫 Contact
+- GitHub: https://github.com/25-THEBEaST-25
+- LinkedIn: https://www.linkedin.com/in/aryan-w
+
+---
+
+*”Consistency builds competence.”*
