@@ -20,14 +20,23 @@ I believe in consistent learning and building real-world security-focused projec
 
 ## 🧩 Projects
 
-### 🔹 Login Guard
-A Python-based brute-force attack simulator with IP blocking and logging mechanisms.
+### 🔹 [Secure Auth Monitor](https://github.com/25-THEBEaST-25/secure-auth-monitor)
+A production FastAPI authentication backend with bcrypt password hashing, JWT sessions, RBAC, account lockout, and credential-stuffing detection. 84 tests, Docker, CI, and Alembic migrations.
 
-### 🔹 Password Strength Checker
-A security tool to evaluate password strength and highlight weak password practices.
+### 🔹 [DocuSense AI](https://github.com/25-THEBEaST-25/KMRL-DocuSense)
+A RAG-based document intelligence system for Kochi Metro: OCR ingestion (PyMuPDF + Tesseract), ChromaDB vector search, and natural-language Q&A over operational documents via a FastAPI backend.
 
-### 🔹 Secure Authentication System *(Work in Progress)*
-A backend authentication system focusing on secure password storage, login flow, and access control.
+### 🔹 [Login Guard](https://github.com/25-THEBEaST-25/login-guard)
+A Python CLI brute-force login simulator with per-IP failure tracking, automatic lockout, and attempt logging.
+
+### 🔹 [XSS Input Checker](https://github.com/25-THEBEaST-25/xss-input-checker)
+A CLI tool that detects cross-site scripting payloads in untrusted input, covering script tags, event handlers, dangerous URIs, and obfuscated markup.
+
+### 🔹 [ThreatLens AI](https://github.com/25-THEBEaST-25/threatlens-ai)
+A Streamlit app that analyzes authentication logs to detect brute-force attempts, credential stuffing, and other suspicious patterns, with IOC extraction and reporting.
+
+### 🔹 [Personal Website](https://25-thebeast-25.github.io/personal-website/)
+My portfolio site, built and deployed with GitHub Pages.
 
 ---
 
